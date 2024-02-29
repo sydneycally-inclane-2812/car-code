@@ -140,13 +140,13 @@ void loop() {
 //Credits where credits is due
 String driver = "Tran Hung Dat";
 String chassis = "Tran Hung Dat";
-String code = "Tran Hung Dat - Vay Thuong Gia Lac - Vuong Gia Bao";
-String decoration = "Tran Hung Dat - Tran Ngoc Long";
-String helper = "Vuong Gia Kiet";
+String code = "Tran Hung Dat - GL - VGB";
+String decoration = "Tran Hung Dat - TNL";
+String helper = "VGK";
 //Went from dream team to wanna-collapse-and-die team, but we all tried our darn hardest.
 //Today we shall all dominate the competition.
 
 //Honorable mentions:
-String donators = "Pham Gia Bao, Nguyen Gia Linh"; //for your carless sacrifices
-String emotionalSupport = "Le Nguyen Minh Anh"; //for being a great person
+String donators = "PGB, NGL"; //for your carless sacrifices
+String emotionalSupport = "LNMA"; //for being a great person
 //Thank you - Tran Hung Dat
